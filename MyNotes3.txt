@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 Local Code
-=======
+
+
 Remote Code
->>>>>>> 5c705b77c409f171b809fa27035d6233389c36c7
+
